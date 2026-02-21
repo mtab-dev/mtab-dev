@@ -16,8 +16,6 @@ Game Development (Technical High School)
 
 </div>
 
-
-<br/>
 <h3 align="center">
 My Tech Stacks
 </h3>
