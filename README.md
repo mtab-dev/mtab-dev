@@ -11,7 +11,7 @@ I'm Matheus, a full stack web developer and mechanical engineering undergrad.
 <b>Federal University of São Carlos - UFSCar</b> | Feb 2025 → Dec 2029 </br>
 BSc in Mechanical Engineering
 
-<b>São Paulo Technical School</b>| Feb 2022 → Dec 2024<br/>
+<b>São Paulo Technical School</b> | Feb 2022 → Dec 2024<br/>
 Game Development (Technical High School)
 
 </div>
