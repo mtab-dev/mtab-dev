@@ -4,6 +4,16 @@
 I'm Matheus, a full stack web developer and mechanical engineering undergrad.
 </p>
 
+<h3 align="center">💼 Professional</h3>
+
+<div align="center">
+
+<b>Manufacturing Engineer Intern - Nexxmed</b> | Apr 2026 → Now </br>
+
+<b>Software Developer Intern - Focus Têxtil</b> | Feb 2024 → Mar 2025<br/>
+
+</div>
+
 <h3 align="center">🎓 Education</h3>
 
 <div align="center">
